@@ -1,0 +1,51 @@
+candidate_id,semantic_score,skill_score,experience_score,behavior_score,final_score,reason,rank
+CAND_0000001,0.5647,0.5714,0.666,0.6022,0.5926,"Good semantic match with the job description. Matched skill categories: Deep Learning, LLM, NLP, Vector Database 6.9 years of professional experience. Currently open to work. Strong GitHub activity. Well-maintained professional profile.",1
+CAND_0000021,0.6308,0.4286,0.4,0.3338,0.4794,"Good semantic match with the job description. Matched skill categories: Embeddings, LLM, Vector Database 14.5 years of professional experience.",2
+CAND_0000031,0.4461,0.4286,0.24,0.734,0.4428,"Moderate semantic match with the job description. Matched skill categories: Embeddings, Machine Learning, Vector Database 6.0 years of professional experience. Currently open to work. Strong GitHub activity. Well-maintained professional profile.",3
+CAND_0000010,0.5204,0.4286,0.334,0.4166,0.44,"Good semantic match with the job description. Matched skill categories: Deep Learning, LLM, Python 4.6 years of professional experience. Strong GitHub activity. Well-maintained professional profile.",4
+CAND_0000014,0.6085,0.2857,0.336,0.3918,0.4247,"Good semantic match with the job description. Matched skill categories: Deep Learning, Vector Database 8.4 years of professional experience.",5
+CAND_0000015,0.553,0.2857,0.276,0.5648,0.4192,"Good semantic match with the job description. Matched skill categories: Machine Learning, Vector Database 5.4 years of professional experience. Currently open to work.",6
+CAND_0000032,0.5656,0.2857,0.354,0.3628,0.4089,"Good semantic match with the job description. Matched skill categories: Embeddings, Python 8.1 years of professional experience.",7
+CAND_0000038,0.6182,0.1429,0.298,0.5372,0.3994,Good semantic match with the job description. Matched skill categories: Vector Database 6.7 years of professional experience. Currently open to work. Strong GitHub activity.,8
+CAND_0000043,0.5516,0.2857,0.362,0.264,0.3908,"Good semantic match with the job description. Matched skill categories: LLM, Machine Learning 8.3 years of professional experience.",9
+CAND_0000041,0.5809,0.0,0.43,0.5338,0.3694,Good semantic match with the job description. 13.7 years of professional experience. Currently open to work.,10
+CAND_0000002,0.5776,0.0,0.43,0.5374,0.3688,Good semantic match with the job description. 12.5 years of professional experience. Currently open to work.,11
+CAND_0000005,0.5689,0.0,0.4,0.5892,0.3675,Good semantic match with the job description. 11.0 years of professional experience. Currently open to work. Well-maintained professional profile.,12
+CAND_0000048,0.5743,0.0,0.418,0.5364,0.3651,Good semantic match with the job description. 9.7 years of professional experience. Currently open to work.,13
+CAND_0000036,0.5585,0.0,0.4,0.5976,0.3651,Good semantic match with the job description. 11.3 years of professional experience. Currently open to work. Well-maintained professional profile.,14
+CAND_0000027,0.5421,0.1429,0.186,0.5772,0.3564,Good semantic match with the job description. Matched skill categories: LLM 3.9 years of professional experience. Currently open to work. Strong GitHub activity.,15
+CAND_0000030,0.5699,0.0,0.43,0.4408,0.3516,Good semantic match with the job description. 10.0 years of professional experience. Strong GitHub activity.,16
+CAND_0000025,0.5667,0.0,0.292,0.6274,0.3509,Good semantic match with the job description. 7.3 years of professional experience. Currently open to work.,17
+CAND_0000045,0.579,0.0,0.4,0.4388,0.3485,Good semantic match with the job description. 12.2 years of professional experience. Currently open to work.,18
+CAND_0000024,0.5797,0.0,0.33,0.52,0.3469,Good semantic match with the job description. 7.5 years of professional experience. Strong GitHub activity.,19
+CAND_0000018,0.6105,0.1429,0.264,0.2396,0.3453,Good semantic match with the job description. Matched skill categories: Deep Learning 6.6 years of professional experience.,20
+CAND_0000050,0.5766,0.0,0.43,0.3744,0.344,Good semantic match with the job description. 13.5 years of professional experience. Strong GitHub activity.,21
+CAND_0000037,0.5745,0.0,0.43,0.3692,0.3424,Good semantic match with the job description. 14.3 years of professional experience.,22
+CAND_0000049,0.5794,0.0,0.43,0.356,0.3422,Good semantic match with the job description. 11.8 years of professional experience.,23
+CAND_0000033,0.5589,0.0,0.344,0.5146,0.3416,Good semantic match with the job description. 8.6 years of professional experience. Currently open to work. Strong GitHub activity.,24
+CAND_0000016,0.5562,0.0,0.212,0.6846,0.3398,Good semantic match with the job description. 5.3 years of professional experience. Currently open to work. Strong GitHub activity.,25
+CAND_0000044,0.5481,0.1429,0.258,0.3382,0.337,Good semantic match with the job description. Matched skill categories: Python 5.7 years of professional experience.,26
+CAND_0000009,0.5814,0.0,0.4,0.2912,0.3272,Good semantic match with the job description. 11.0 years of professional experience.,27
+CAND_0000046,0.5839,0.0,0.342,0.3534,0.3258,Good semantic match with the job description. 7.8 years of professional experience. Strong GitHub activity.,28
+CAND_0000026,0.5815,0.0,0.302,0.3746,0.3201,Good semantic match with the job description. 6.8 years of professional experience. Well-maintained professional profile.,29
+CAND_0000020,0.5731,0.0,0.282,0.396,0.3164,Good semantic match with the job description. 6.3 years of professional experience.,30
+CAND_0000034,0.5604,0.0,0.43,0.1924,0.311,Good semantic match with the job description. 14.5 years of professional experience.,31
+CAND_0000023,0.5911,0.0,0.148,0.4924,0.3104,Good semantic match with the job description. 3.7 years of professional experience. Strong GitHub activity.,32
+CAND_0000017,0.5638,0.0,0.4,0.1934,0.3063,Good semantic match with the job description. 12.3 years of professional experience.,33
+CAND_0000007,0.5841,0.0,0.22,0.3652,0.3032,Good semantic match with the job description. 5.5 years of professional experience.,34
+CAND_0000029,0.5579,0.0,0.288,0.324,0.3014,Good semantic match with the job description. 7.2 years of professional experience. Strong GitHub activity.,35
+CAND_0000013,0.6159,0.0,0.044,0.4816,0.2966,Good semantic match with the job description. 1.1 years of professional experience. Currently open to work. Strong GitHub activity.,36
+CAND_0000028,0.5691,0.1429,0.044,0.3004,0.2959,Good semantic match with the job description. Matched skill categories: Deep Learning 1.1 years of professional experience.,37
+CAND_0000042,0.5729,0.0,0.23,0.3012,0.2917,Good semantic match with the job description. 5.0 years of professional experience.,38
+CAND_0000022,0.5833,0.0,0.074,0.4682,0.2892,Good semantic match with the job description. 1.1 years of professional experience. Currently open to work.,39
+CAND_0000035,0.6046,0.0,0.172,0.2784,0.2878,Good semantic match with the job description. 4.3 years of professional experience.,40
+CAND_0000008,0.5839,0.0,0.144,0.356,0.2866,Good semantic match with the job description. 3.6 years of professional experience.,41
+CAND_0000039,0.59,0.0,0.156,0.3066,0.2837,Good semantic match with the job description. 3.9 years of professional experience.,42
+CAND_0000011,0.5949,0.0,0.08,0.385,0.282,Good semantic match with the job description. 2.0 years of professional experience. Strong GitHub activity.,43
+CAND_0000006,0.5787,0.0,0.24,0.1954,0.2799,Good semantic match with the job description. 6.0 years of professional experience.,44
+CAND_0000019,0.5627,0.0,0.26,0.2052,0.2797,Good semantic match with the job description. 6.5 years of professional experience.,45
+CAND_0000047,0.5751,0.0,0.126,0.3434,0.278,Good semantic match with the job description. 2.4 years of professional experience.,46
+CAND_0000040,0.5783,0.0,0.064,0.329,0.2646,Good semantic match with the job description. 1.6 years of professional experience.,47
+CAND_0000004,0.5753,0.0,0.182,0.177,0.2643,Good semantic match with the job description. 3.8 years of professional experience.,48
+CAND_0000003,0.5749,0.0,0.044,0.3258,0.2589,Good semantic match with the job description. 1.1 years of professional experience.,49
+CAND_0000012,0.5629,0.0,0.044,0.2208,0.2389,Good semantic match with the job description. 1.1 years of professional experience.,50
